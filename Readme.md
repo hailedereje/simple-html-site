@@ -2,6 +2,8 @@
 
 This project is a simple HTML website with dynamic search functionality implemented using JavaScript and PHP.
 
+## Final version
+![final-result](https://github.com/hailedereje/simple-html-site/blob/main/searching.png?raw=true)
 ## Features
 
 - Dynamic search functionality using AJAX
