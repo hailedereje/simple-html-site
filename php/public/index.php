@@ -1,7 +1,7 @@
 <?php
    
     header("Access-Control-Allow-Origin: *");
-    $url = "https://jsonplaceholder.typicode.com/comments?postId=3";
+    $url = "https://jsonplaceholder.typicode.com/comments";
     
     $curl = curl_init();
     
