@@ -12,15 +12,15 @@ This project is a simple HTML website with dynamic search functionality implemen
 
 To run this project locally, follow these steps:
 
-1. **Clone or Download the Repository**: 
+1. **Clone or Download the Repository** : `https://github.com/hailedereje/simple-html-site.git`
 
-2. **Navigate to the Project Directory**:
+2. **Navigate to the Project Directory** : `cd simple-html-site`
 
 3. **Start a Local PHP Server**: 
-    1. *** `php -S localhost:{port} -t .` ***
-    2. ***Replace `port` with the port number you want to use.***
+    1. run this command `php -S localhost:{port} -t .`
+    2. replace `port` with the port number you want to use
 
-4. **Wait for Data Fetch**:
+4. **Wait for Data Fetch** :
 After starting the server, wait a little until the AJAX fetches the data.
 
 5. **Access the Site**:
