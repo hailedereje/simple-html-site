@@ -28,6 +28,8 @@ After starting the server, wait a little until the AJAX fetches the data.
 5. **Access the Site**:
 Open your web browser and go to `http://localhost:{port}` (replace `{port}` with the port number you specified). You should see the site running with the search functionality enabled.
 
+## If The code donot run as Expected : 
+    this is due to invalid certifact in this case I can `Demo` live on my computer contact me I will be happy to show
 ## Technologies Used
 
 - HTML
