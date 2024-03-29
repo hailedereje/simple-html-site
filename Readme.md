@@ -19,7 +19,7 @@ To run this project locally, follow these steps:
 2. **Navigate to the Project Directory** : `cd simple-html-site`
 
 3. **Start a Local PHP Server**: 
-    1. run this command `php -S localhost:{port} -t .`
+    1. run this command `php -S localhost:{port} -t .` <<< I find this simple and more clean than setting up server using apache or running apache inside xammp 
     2. replace `port` with the port number you want to use
 
 4. **Wait for Data Fetch** :
